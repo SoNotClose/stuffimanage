@@ -1,0 +1,4 @@
+{
+    "Stability": "Stable",
+    "Announcement": "Release!!!!"
+}
