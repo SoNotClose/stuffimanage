@@ -1,10 +1,13 @@
 {
+  "wpn": {"stability": "Stable (Undetected)", "version": "v1.0.1"},
   "strf": {"stability": "Stable (Undetected)", "version": "v1.5.0"},
-  "ggf": {"stability": "Stable (Undetected)", "version": "v1.0.0"},
-  "ont": {"stability": "Stable (Undetected)", "version": "v1.0.0"},
-  "fl": {"stability": "Stable", "version": "v1.0.0"},
-  "chm": {"stability": "Stable", "version": "v1.0.0"},
+  "ggf": {"stability": "Stable (Undetected)", "version": "v1.0.1"},
+  "ont": {"stability": "Stable (Undetected)", "version": "v1.0.1"},
+  "fl": {"stability": "Stable", "version": "v1.0.1"},
+  "chm": {"stability": "Stable", "version": "v1.0.1"},
   "News": [
+    {"date": "June 3 | 15:00", "title": "AVIATION | WEAPONRY", "text": "After a long wait Aviation now supports Weaponry hop in and start cheesing!!"},
+    {"date": "May 25 | 06:00", "title": "AVIATION | SECURITY UPDATE", "text": "Aviaiton security has been updated for the following games, Chambred, Flick, One Tap with these fixes and changes we hope to bring you a safe env for cheesing"},
     {"date": "May 16 | 01:30", "title": "TRIPLE HIT | 3 NEW GAMES", "text": "Aviation now supports Flick, Chambered, and One Tap although none of these are prioritized so dont expect them to be main safe besides One Tap because it has a shitty anti"},
     {"date": "May 15 | 03:30", "title": "NEW GAME | GUN GROUNDS FFA", "text": "Aimbot, Silent Aim, ESP, FLY fully tested and undetected!!!!!!!!!!!!"},
     {"date": "May 15 | 02:30", "title": "SCRIPT UPDATED | Strafe", "text": "fixed rage improved aimbot and stuff"},
